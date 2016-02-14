@@ -1,0 +1,2 @@
+# aspnet5_actionresult_xml
+ASP.NET MVC5でアクションメソッドの処理結果にXMLを返却するサンプルです。
